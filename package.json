@@ -1,0 +1,9 @@
+{
+  "name": "linkvault-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LinkVault AI — gerenciador de links (site estático, sem dependências).",
+  "scripts": {
+    "build": "echo Static site: no build step required. Files are served from dist/"
+  }
+}

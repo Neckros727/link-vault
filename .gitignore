@@ -1,0 +1,7 @@
+# Dependências (não precisam ir pro GitHub)
+node_modules/
+.vite/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
